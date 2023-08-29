@@ -1,0 +1,78 @@
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\steva\Desktop\PZ2\PZ2\PZ2\obj\Debug\PZ2.pdb
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\bin\Debug\PZ2.exe.config
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\bin\Debug\PZ2.exe
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\bin\Debug\PZ2.pdb
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\PZ2.csproj.SuggestedBindingRedirects.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\App.g.cs
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\MainWindow.baml
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\PZ2.g.resources
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\PZ2.exe
+C:\Users\stevan\Desktop\New folder\grafika\PZ2\PZ2\obj\Debug\PZ2.pdb
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe.config
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\bin\Debug\PZ2.pdb
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.SuggestedBindingRedirects.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\App.g.cs
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\MainWindow.baml
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.g.resources
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.exe
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\RacunarskaGrafika-PZ2-main\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.pdb
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe.config
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\bin\Debug\PZ2.pdb
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.SuggestedBindingRedirects.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\App.g.cs
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\MainWindow.baml
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.g.resources
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.exe
+D:\Fakultet\4. Godina\Grafika\PZ2\PZ2 - GITHUB\ODLICAN PROJEKAT\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.pdb
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe.config
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\bin\Debug\PZ2.exe
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\bin\Debug\PZ2.pdb
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.AssemblyReference.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.SuggestedBindingRedirects.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\MainWindow.g.cs
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\App.g.cs
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2_MarkupCompile.lref
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\MainWindow.baml
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.g.resources
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.Properties.Resources.resources
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.GenerateResource.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.csproj.CoreCompileInputs.cache
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.exe
+D:\Fakultet\4. Godina\Grafika\PZ2\FIRST VER\RacunarskaGrafika-PZ2-main\PZ2\PZ2\obj\Debug\PZ2.pdb
